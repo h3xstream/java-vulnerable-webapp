@@ -28,6 +28,7 @@
           "name": "SpotBugs",
           "version": "4.3.0",
           "language": "en",
+            "informationUri": "https://github.com/spotbugs",
           "rules": [
             {
               "id": "PATH_TRAVERSAL_IN",
